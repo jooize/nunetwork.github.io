@@ -2,8 +2,9 @@
 layout: page
 title: Exchanges
 permalink: /exchanges
-redirect_from: /exchanges/nubits-exchanges
-redirect_from: /exchanges/nushares-exchanges
+redirect_from:
+  - /exchanges/nubits-exchanges
+  - /exchanges/nushares-exchanges
 menu: Exchanges
 ---
 <div class="exchanges">
