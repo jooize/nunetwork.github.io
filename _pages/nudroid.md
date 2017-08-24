@@ -1,9 +1,7 @@
 ---
 layout: page
-show_sidebar: true
 title: NuDroid Mobile Wallet
-permalink: /resources/nudroid-mobile-wallet
-menu: Resources
+permalink: /nudroid
 ---
 <h2><b><center>Introducing the NuDroid Mobile Wallet</center></b></h2>
 

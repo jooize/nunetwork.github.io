@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Download Wallet
+title: Wallet
 permalink: /download
-menu: Download
+menu: Get Wallet
 ---
 <div class="download-wallet">
   <div class="logo">

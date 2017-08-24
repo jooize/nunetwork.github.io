@@ -1,8 +1,10 @@
 ---
 layout: page
-title: NuBits & NuShares Exchanges
-permalink: /trade
-menu: Trade
+title: Exchanges
+permalink: /exchanges
+redirect_from: /exchanges/nubits-exchanges
+redirect_from: /exchanges/nushares-exchanges
+menu: Exchanges
 ---
 <div class="exchanges">
   <a class="exchange" href="https://bittrex.com/Market/Index?MarketName=BTC-NBT" target="_blank">
@@ -24,7 +26,7 @@ menu: Trade
 
 **Note:** NuShareholders do not endorse any specific exchange. NuShareholders cannot be held liable for any funds lost by using these exchanges. This listing only intends to be an overview where NuShares and NuBits can be traded. Users of these exchanges need to do their own due diligence before using these exchanges.
 
------------------------------------------------------------------------------------------------------------------------------
+---
 
 <div class="exchanges">
 	<a class="exchange" href="https://alcurex.com/#NSR-BTC" target="_blank">
@@ -40,8 +42,4 @@ menu: Trade
 	  <h2>B&C Exchange</h2>
 	</a>
 </div>
-
-
-**Note:** NuShareholders do not endorse any specific exchange. NuShareholders cannot be held liable for any funds lost by using these exchanges. This listing only intends to be an overview where NuShares and NuBits can be traded. Users of these exchanges need to do their own due diligence before using these exchanges.
-
 
