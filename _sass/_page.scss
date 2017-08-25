@@ -268,26 +268,21 @@ header {
 // Exchanges
 div#exchanges {
   display: flex;
-  div#exchanges-usnbt {
-    //display: block;
-  }
-  div#exchanges-nsr {
-    //display: block;
-  }
-  h2 {
-    //display: block;
+  div#exchanges div {
+    margin-left: 50px;
   }
   ul {
-    display: block;
+    list-style: none;
+    padding: 0;
     li {
-      //text-align: center;
-      display: inline-block;
+      margin: 0px;
+      margin-bottom: 5px;
       padding: 10px;
-      border: 1px solid darken(#eee, 20%);
+      border: 1px solid #bbb;
       height: 70px;
-      font-size: 2.5rem;
-      color: $link-color;
-      background: #eee;
+      font-size: 2rem;
+      color: #0074A0;
+      background: #eee
       a:hover {
         text-decoration: none;
       }
