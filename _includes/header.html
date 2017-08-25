@@ -15,7 +15,7 @@
           {% for menu-item in site.menu-list %}
           
             {% if forloop.first %}
-              {% assign parent_class = 'first dropdown' %}
+              {% assign parent_class = 'first' %}
             {% elsif forloop.last %}
               {% assign parent_class = 'last' %}
             {% else %}
