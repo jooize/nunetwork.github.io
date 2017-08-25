@@ -388,7 +388,13 @@ div#exchanges {
 
 // Responsive: Large desktop and up
 // --------------------------------------------------
-@media (min-width: 1200px) { }
+@media (min-width: 1200px) { 
+
+footer {
+  margin-top: 30px;
+}
+
+}
 
 // Responsive: Desktop to large desktop
 // --------------------------------------------------
