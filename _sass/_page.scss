@@ -266,25 +266,26 @@ header {
 }
 
 // Exchanges
-ul.exchanges {
+div.exchanges {
   display: flex;
-}
-.exchanges {
-  li {
-    //text-align: center;
-    display: block;
-    padding: 20px;
-    border: 1px solid darken(#eee, 20%);
-    height: 80px;
-    a:hover { text-decoration: none; }
-    img {
-      max-width: 100%;
-      max-height: 100%;
-      padding-right: 10px;
+  ul {
+    display: inline-grid;
+    li {
+      //text-align: center;
+      display: inline-block;
+      padding: 10px;
+      border: 1px solid darken(#eee, 20%);
+      height: 70px;
+      a:hover { text-decoration: none; }
+      img {
+        max-width: 100%;
+        max-height: 100%;
+       padding-right: 10px;
+      }
+      font-size: 2.5rem;
+      color: $link-color;
+      background: #eee;
     }
-    font-size: 3rem;
-    color: $link-color;
-    background: #eee;
   }
 }
 
