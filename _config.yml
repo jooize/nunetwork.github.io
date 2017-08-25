@@ -21,7 +21,7 @@ sass:
 
 include: ["_pages"]
 
-menu-list: ["Learn", "Exchanges", "Dashboard", "Discuss", "Wallet"]
+menu-list: ["Exchanges", "Explorer", "Discuss", "Wallets"]
 
 plugins:
   - jekyll-redirect-from
