@@ -2,6 +2,7 @@
 layout: page
 title: NuDroid Mobile Wallet
 permalink: /nudroid
+redirect_from: /resources/nudroid-mobile-wallet
 ---
 <h2><b><center>Introducing the NuDroid Mobile Wallet</center></b></h2>
 

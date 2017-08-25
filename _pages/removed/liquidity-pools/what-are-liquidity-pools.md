@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What are Liquidity Pools
-externallink: http://docs.nubits.com/liquidity-pools/
-permalink: /.redirects/what-are-liquidity-index
+permalink: /liquidity-pools/what-are-liquidity-index
+redirect_to: https://docs.nubits.com/liquidity-pools/
 menu: Liquidity Pools
 ---

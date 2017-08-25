@@ -2,8 +2,8 @@
 layout: page
 show_sidebar: true
 title: Overview
-permalink: /removed/overview
-redirect_from: /about/overview
+permalink: /about/overview
+menu: About
 ---
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/logo-nu-full-150-dark.png" width="150" height="146" alt="logo-nu-full-150-dark.png" /></center>
 
