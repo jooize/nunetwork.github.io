@@ -267,9 +267,7 @@ header {
 
 // Exchanges
 .exchanges {
-  ul {
-    list-style: none;
-  }
+  list-style: none;
   li {
     //@include make-md-column(3);
     //@include make-md-column-offset(1);
