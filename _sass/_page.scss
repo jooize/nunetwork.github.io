@@ -267,6 +267,9 @@ header {
 
 // Exchanges
 .exchanges {
+  ul {
+    list-style: none;
+  }
   li {
     //@include make-md-column(3);
     //@include make-md-column-offset(1);
@@ -274,11 +277,12 @@ header {
     //text-align: center;
     padding: 20px;
     border: 1px solid darken(#eee, 20%);
-    height: 150px;
+    height: 100px;
     img {
       max-width: 100%;
+      max-height: 100%;
     }
-    font-size: 2rem;
+    font-size: 3rem;
     color: $link-color;
     background: #eee;
   }
