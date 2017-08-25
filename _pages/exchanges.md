@@ -10,7 +10,8 @@ menu: Exchanges
 
 ***Note:** Always confirm that you are buying or selling at your expected price prior to executing a trade! Liquidity availability is subject to certain limitations.*
 
-<div id="exchanges-usnbt" class="exchanges">
+<div id="exchanges">
+<div id="exchanges-usnbt">
 <h2>US NuBits (US-NBT)</h2>
 
 <ul>
@@ -35,7 +36,7 @@ menu: Exchanges
 </ul>
 </div>
 
-<div id="exchanges-nsr" class="exchanges">
+<div id="exchanges-nsr">
 <h2>NuShares (NSR)</h2>
 
 <ul>
@@ -58,4 +59,5 @@ menu: Exchanges
     </a>
   </li>
 </ul>
+</div>
 </div>
