@@ -12,7 +12,7 @@ menu: Exchanges
 
 ## US NuBits (US-NBT)
 
-<ul id="exchanges-usnbt">
+<ul class="exchanges">
   <li>
     <a href="https://bittrex.com/Market/Index?MarketName=BTC-NBT" target="_blank">
       <img src="{{ site.baseurl }}/assets/logo-bittrex-150.png" alt="" />

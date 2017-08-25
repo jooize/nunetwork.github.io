@@ -267,24 +267,19 @@ header {
 
 // Exchanges
 .exchanges {
-  @include clearfix();
-  margin-bottom: 50px;
-  .exchange {
-    @include make-md-column(3);
-    @include make-md-column-offset(1);
-    @include make-md-column-pull(1);
-    text-align: center;
+  li {
+    //@include make-md-column(3);
+    //@include make-md-column-offset(1);
+    //@include make-md-column-pull(1);
+    //text-align: center;
     padding: 20px;
     border: 1px solid darken(#eee, 20%);
-    height: 250px;
-    margin-bottom: 40px;
+    height: 150px;
     img {
       max-width: 100%;
     }
-    h2 {
-      font-size: 2rem;
-      color: $link-color;
-    }
+    font-size: 2rem;
+    color: $link-color;
     background: #eee;
   }
 }
